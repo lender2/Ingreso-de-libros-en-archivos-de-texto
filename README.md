@@ -1,8 +1,8 @@
 # Registro de Libros - Algoritmos Computacionales
 
 ## Datos del estudiante
-- Nombre: [Escribir aquí]
-- Matrícula: [Escribir aquí]
+- Nombre: Lender Manuel Sanchez Monanci, Daysi Diaz 
+- Matrícula: 25-SISN-2-047, 25-SISN-2-014
 - Profesor: Gamalier Reyes del Carmen
 - Asignatura: Algoritmos Computacionales
 
@@ -47,7 +47,7 @@ donde se ejecuta el programa (`bin/Debug/net8.0/`).
 [Insertar aquí la captura de pantalla mostrando el contenido de libros.txt]
 
 ### 4. Ruta donde está alojado el archivo
-[Insertar aquí la captura de pantalla mostrando la ubicación del archivo en el explorador de archivos]
+C:\Users\Sanchez\OneDrive\Documentos\Tarea_#3\libros.txt
 
 ## Enlace del repositorio
 https://github.com/lender2/Ingreso-de-libros-en-archivos-de-texto
