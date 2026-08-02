@@ -1,8 +1,8 @@
 # Registro de Libros - Algoritmos Computacionales
 
-## Datos del estudiante
-- Nombre: Lender Manuel Sanchez Monanci, Daysi Diaz 
-- Matrícula: 25-SISN-2-047, 25-SISN-2-014
+## Datos de los estudiantes
+- Nombres: Lender Manuel Sanchez Monanci, Daysi Diaz 
+- Matrículas: 25-SISN-2-047, 25-SISN-2-014
 - Profesor: Gamalier Reyes del Carmen
 - Asignatura: Algoritmos Computacionales
 
