@@ -1,0 +1,46 @@
+===== LISTADO DE LIBROS =====
+
+Libro 1
+-------------------
+Código: 1
+Título: El principito
+Autor: Antoine de Saint-Exupéry
+Año: 1943
+Editorial: Reynal & Hitchcock
+Número de páginas: 96
+
+Libro 2
+-------------------
+Código: 2
+Título: Harry Potter y la piedra filosofal
+Autor: J. K. Rowling
+Año: 1997
+Editorial: Bloomsbury
+Número de páginas: 223
+
+Libro 3
+-------------------
+Código: 3
+Título: El alquimista
+Autor: Paulo Coelho
+Año: 2002
+Editorial: Harper
+Número de páginas: 177
+
+Libro 4
+-------------------
+Código: 4
+Título: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Año: 2003
+Editorial: Penguin Books
+Número de páginas: 1072
+
+Libro 5
+-------------------
+Código: 5
+Título: 1984
+Autor: George Orwell
+Año: 1949
+Editorial: Secker & Warburg
+Número de páginas: 328
